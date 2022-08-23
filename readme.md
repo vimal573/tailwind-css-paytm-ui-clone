@@ -10,7 +10,7 @@
 
 ![name](https://img.shields.io/badge/Vimal--Kumar-lightgrey)
 
-## Paytm UI Clone [Live Link](https://rode-ui-web.netlify.app//)
+## Paytm UI Clone [Live Link](https://paytm-web-ui.netlify.app/)
 
 - Skills Gained in this project
 
@@ -18,7 +18,7 @@
 
   - learn to apply tailwind pre written class
 
-  - apply background image, colors, background image thorugh taillwind
+  - apply animation on button hover through beafore and after psudo class
 
   - learn responsive design with tailwind define screen sizes and and classes
 
@@ -26,9 +26,9 @@
 
 ## Time taken to finish this project
 
-- 8 hour 45 minutes to complete it
-- 3 hour 50 minutes to make it responsive
+- 10 hour 45 minutes to complete it
+- 3 hour 10 minutes to make it responsive
 
 #### Screenshot
 
-![Desktop](./screenshot/rode-ui.png)
+![Desktop](./screenshot/paytmclone.png)
